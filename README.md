@@ -56,7 +56,7 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **1st Position:** Coding Competition, Engineer’s Day (GIFT Coding Club)
+- 🥇 **1st Position:** Coding Competition, Engineer’s Day (GIET Coding Club)
 - 🥇 **1st Position:** Poster Presentation, Engineer’s Day
 - 🥉 **3rd Position:** Seminar on Multi-Spectral Graphene-Based Electro-Optical Surfaces
 
